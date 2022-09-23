@@ -1,16 +1,15 @@
-### Hi there 👋
+# Rodrigo Teixeira
 
-<!--
-**rodrigojteixeira/rodrigojteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile
+  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigojteixeira&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojteixeira&langs_count=10&layout=compact)](https://github.com/rodrigojteixeira/github-readme-stats)
+
+## My techs
+ <img alt="Delphi" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" width=40 height=40 /> <img alt="MATLAB" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" width=40 height=40 /> <img alt="Visual Studio Code" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" width=40 height=40 /> <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width=40 height=40 /> <img alt="Android" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" width=40 height=40 /> <img alt="Git" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width=40 height=40 /> <img alt="GitHub" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" width=40 height=40 /> <img alt="LabVIEW" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/labview/labview-original-wordmark.svg" width=40 height=40 /> <img alt="MySQL" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width=40 height=40 /> <img alt="Microsoft Visual Studio" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" width=40 height=40 /> <img alt="C Sharp" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" width=40 height=40 /> <img alt="C++" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" width=40 height=40 /> <img alt="Unity" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" width=40 height=40 />
+  
+## Contact me!
+  <a href="https://www.linkedin.com/in/rodrigojt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://api.whatsapp.com/send/?phone=5512991451906&text=Ol%C3%A1+Rodrigo+!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> <a href="mailto:rodrigojoseteixeira92+github@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://t.me/rodrigojt92" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
+    
+<!--  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
