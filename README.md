@@ -3,7 +3,7 @@
 
 
 ## Profile
-  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigojteixeira&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true)
+  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigojteixeira&theme=chartreuse-dark&show_icons=true&include_all_commits=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojteixeira&langs_count=10&layout=compact)](https://github.com/rodrigojteixeira/github-readme-stats)
 
 ## My techs
