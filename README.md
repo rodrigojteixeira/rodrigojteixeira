@@ -21,8 +21,8 @@
 <img  alt="MATLAB"            align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg"/>
 <img alt="Visual Studio Code" align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
 <img alt="JavaScript"         align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
-<img alt="HTML 5"             align="center"  height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img alt="CSS 3"              align="center"  height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img alt="HTML 5"             align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"/>
+<img alt="CSS 3"              align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"/>
 <img alt="Git"                align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"/>
 <img alt="GitHub"             align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg"/>
 <img alt="LabVIEW"            align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/labview/labview-original-wordmark.svg"/>
