@@ -1,15 +1,38 @@
-# Rodrigo Teixeira
+# Olá, me chamo Rodrigo Teixeira.
+## Seja bem-vindo(a)!
 
+## :frowning_man:	Profile
+<p>Tenho 30 anos, sou um desenvolvedor front-end com formação técnica em Informática e graduação em Engenharia Elétrica.</p> 
 
+## :chart_with_upwards_trend: My Stats
+<div align="center">
+  <a href="https://github.com/rodrigojteixeira">
+  <section>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigojteixeira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojteixeira&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  <img height='160em' src='https://github-readme-streak-stats.herokuapp.com?user=rodrigojteixeira&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  </section>
+</div>
 
-## Profile
-  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigojteixeira&theme=chartreuse-dark&show_icons=true&include_all_commits=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojteixeira&langs_count=10&layout=compact)](https://github.com/rodrigojteixeira/github-readme-stats)
+## :computer:	My techs
 
-## My techs
- <img alt="Delphi" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" width=40 height=40 /> <img alt="MATLAB" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" width=40 height=40 /> <img alt="Visual Studio Code" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" width=40 height=40 /> <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" width=40 height=40 /> <img alt="Android" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" width=40 height=40 /> <img alt="Git" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width=40 height=40 /> <img alt="GitHub" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" width=40 height=40 /> <img alt="LabVIEW" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/labview/labview-original-wordmark.svg" width=40 height=40 /> <img alt="MySQL" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" width=40 height=40 /> <img alt="Microsoft Visual Studio" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" width=40 height=40 /> <img alt="C Sharp" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" width=40 height=40 /> <img alt="C++" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" width=40 height=40 /> <img alt="Unity" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original.svg" width=40 height=40 />
+<div>
+<img  alt="Delphi"            align="center"  height="50" width="50"  src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png"/>
+<img  alt="MATLAB"            align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg"/>
+<img alt="Visual Studio Code" align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
+<img alt="JavaScript"         align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
+<img alt="HTML 5"             align="center"  height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img alt="CSS 3"              align="center"  height="50" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img alt="Git"                align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"/>
+<img alt="GitHub"             align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg"/>
+<img alt="LabVIEW"            align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/labview/labview-original-wordmark.svg"/>
+<img alt="MySQL"              align="center"  height="50" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg"/>
+</div>
   
-## Contact me!
-  <a href="https://www.linkedin.com/in/rodrigojt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://api.whatsapp.com/send/?phone=5512991451906&text=Ol%C3%A1+Rodrigo+!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> <a href="mailto:rodrigojoseteixeira92+github@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://t.me/rodrigojt92" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
-    
-<!--  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+## :email: Contact me!
+<div>
+  <a href="https://www.linkedin.com/in/rodrigojt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=5512991451906&text=Ol%C3%A1+Rodrigo+!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="mailto:rodrigojoseteixeira92+github@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/rodrigojt92" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  
+</div>
