@@ -8,8 +8,8 @@
 <div align="center">
   <a href="https://github.com/rodrigojteixeira">
   <section>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigojteixeira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojteixeira&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigojteixeira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojteixeira&layout=compact&langs_count=10&theme=aura"/>
   <img height='160em' src='https://github-readme-streak-stats.herokuapp.com?user=rodrigojteixeira&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   </section>
 </div>
